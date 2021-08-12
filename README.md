@@ -29,6 +29,15 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
 
+### Files
+
+* app.py - contains the prediction application which uses a pretrained ML model.
+* Dockerfile - contains the docker containerization script for the app
+* Requirements.txt - contains all necessary packages to run the app
+* run_docker.sh - is a shell script to build and run the docker container
+* run_kubernetes.sh - is a shell script to build and run a kubernetes cluster/pod
+* upload_docker.sh - is a shell script to upload a docker image to dockerhub
+
 ### Running `app.py`
 
 1. Standalone:  `python app.py`
