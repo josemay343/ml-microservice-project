@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-
+[![<josemay343>](https://circleci.com/gh/<josemay343>/ml-microservice-project.svg?style=svg)](https://app.circleci.com/pipelines/github/josemay343/ml-microservice-project)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
